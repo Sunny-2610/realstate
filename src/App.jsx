@@ -3,7 +3,7 @@ import React from 'react'
 import Header from './Components/Header'
 import About from './Components/About'
 import Projects from './Components/Projects'
-import Testimonails from './Components/Testimonails'
+import Testimonails from './Components/Testimonials'
 import Contact from './Components/Contact'
  import { ToastContainer, toast } from 'react-toastify';
 import Footer from './Components/Footer'
